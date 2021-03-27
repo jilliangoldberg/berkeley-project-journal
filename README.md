@@ -27,6 +27,7 @@ Built a full interpreter in Python for Scheme. The program fully replicates the 
 
 ## NBody
 Made an Nbody simulator. [Spec](https://cs61bl.org/su20/projects/nbody/)
+![](media/nbody.gif)
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 
@@ -72,17 +73,19 @@ Made a numpy clone in C. Uses SIMD and MIMD (specifically Intel Intrinsics and O
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /><img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
 ## Pacman AI
-Implemented a series of AI functionality to Pacman such as searching algorithms, gametrees, Markov Decision Processes, reinforcement learning, Bayesian Networks, hidden Markov models, and particle filtering.
+Implemented a series of AI functionality to Pacman such as searching algorithms, gametrees, Markov Decision Processes, reinforcement learning, Bayesian Networks, hidden Markov models, and particle filtering. [Spec](https://inst.eecs.berkeley.edu/~cs188/fa20/projects/)
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 ## Neural Networks
-Created neural networks to estimate sin wave, classify digits, and classify different languages.
+Created neural networks to estimate sin wave, classify digits, and classify different languages. [Spec](https://inst.eecs.berkeley.edu/~cs188/fa20/project5/)
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 
 ## Zoom Rooms
 Devised algorithms to solve a NP-Hard of graph parititioning problem. Ended up devising a greedy algorithm. 
+[Spec](https://github.com/Berkeley-CS170/project-fa20-skeleton)
+[Public Leaderboard](https://berkeley-cs170.github.io/project-leaderboard-fa20/)
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
