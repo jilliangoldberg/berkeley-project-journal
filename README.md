@@ -40,6 +40,8 @@ Made an array deque data structure from scratch in Java. [Spec](https://cs61bl.o
 ## Gitlet
 Made a fully functional mini version control system in Java. [Spec](https://cs61bl.org/su20/projects/gitlet/)
 
+![](https://cs61bl.org/su20/projects/gitlet/image/commits-and-blobs.png)
+
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
 ## BearMaps
@@ -61,25 +63,34 @@ Made an artificial neural network in RISC-V assembly. Matrix and vector operatio
 
 Uses the Python unittest library. [Spec](https://cs61c.org/fa20/projects/proj2/)
 
+![](https://thumbs.gfycat.com/BaggyFearlessCrocodile-max-1mb.gif)
+
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
 ## RISC-V CPU
 Made a RISC-V CPU in Logisim. Testing was done through Python and Bash scripts. [Spec](https://cs61c.org/fa20/projects/proj3/)
 
+![](media/risc-v-pipeline.png)
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
 ## Numc
 Made a numpy clone in C. Uses SIMD and MIMD (specifically Intel Intrinsics and OpenMP) to accelerate matrix operations such as add, subtract, absolute value, and negation. Also sped up DGEMM to a factor of 110X and matrix exponentation to a factor of 2200X. Optimizations with caches were also performed to achieve such a great speedup. This was tested on the Intel i7-4770 processor. [Spec](https://cs61c.org/fa20/projects/proj4/)
 
+![](media/simd.gif)
+
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /><img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
 ## Pacman AI
-Implemented a series of AI functionality to Pacman such as searching algorithms, gametrees, Markov Decision Processes, reinforcement learning, Bayesian Networks, hidden Markov models, and particle filtering. [Spec](https://inst.eecs.berkeley.edu/~cs188/fa20/projects/)
+Implemented a series of AI functionality to Pacman such as searching algorithms, gametrees, Markov Decision Processes, reinforcement learning, Bayesian Networks, HMMs, and particle filtering. [Spec](https://inst.eecs.berkeley.edu/~cs188/fa20/projects/)
+
+![](media/pacman.gif)
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 ## Neural Networks
-Created neural networks to estimate sin wave, classify digits, and classify different languages. [Spec](https://inst.eecs.berkeley.edu/~cs188/fa20/project5/)
+Created neural networks from scratch to estimate sine wave, classify digits, and classify different languages. [Spec](https://inst.eecs.berkeley.edu/~cs188/fa20/project5/)
+
+![](media/digits.gif)
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 
@@ -87,6 +98,8 @@ Created neural networks to estimate sin wave, classify digits, and classify diff
 Devised algorithms to solve a NP-Hard of graph parititioning problem. Ended up devising a greedy algorithm. 
 [Spec](https://github.com/Berkeley-CS170/project-fa20-skeleton)
 [Public Leaderboard](https://berkeley-cs170.github.io/project-leaderboard-fa20/)
+
+![](media/graph.png)
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
