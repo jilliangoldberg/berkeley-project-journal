@@ -4,6 +4,7 @@ Here lies a journal of school coding projects and assignments I have completed a
 ## Hog
 My first CS project at UC Berkeley where I was exposed to functional programming and Python to a made up dice game of Hog. GUI was done in Tkinter. [Spec](https://inst.eecs.berkeley.edu/~cs61a/sp19/proj/hog/)
 ![](media/hog_demo.png)
+
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 ## Yelp Maps
@@ -15,11 +16,13 @@ A project where I was exposed to the list comprehensions, data structures, and d
 ## Ants vs. Bees
 This project exercised object oriented programming with a fun little web app game inspired by the popular mobile classic: Plants vs. Zombies. [Spec](https://inst.eecs.berkeley.edu/~cs61a/sp19/proj/ants/)
 ![](media/ants.png)
+
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 ## Scheme Interpreter
 Built a full interpreter in Python for Scheme. The program fully replicates the REPL environment of Scheme. This was a really cool project building a functional programming language and interpreter from scratch with an interpreted lanugage! [Spec](https://inst.eecs.berkeley.edu/~cs61a/sp19/proj/scheme/)
 ![](media/scheme.png)
+
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 ## NBody
