@@ -27,6 +27,7 @@ Built a full interpreter in Python for Scheme. The program fully replicates the 
 
 ## NBody
 Made an Nbody simulator. [Spec](https://cs61bl.org/su20/projects/nbody/)
+
 ![](media/nbody.gif)
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
