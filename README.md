@@ -112,3 +112,18 @@ Wrote up homework solutions through LaTeX and visualized problems with Python.
 Programmed algorithms in Python and worked out homework problems in LaTeX.
 
 <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+
+## Kaggle InClass Prediction Competition
+Scored on average top 5% of the class in Kaggle InClass Prediction Competitions for a machine learning course consisting of 600+ graduate and undergraduate students. Competed for the best classifiers such as SVMs, GDA, Logistic Regression, Decision Trees, and Neural Networks coded from scratch in Python.
+
+<img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
+
+## Self-Driving Voice Activated Car
+Made a self-driving car with circuits, op-amps, filters, and sensors with a TI MSP-EXP430F5529LP microcontroller. Software is written in C++ and can recognize four voice commands corresponding to four actions. Commands are classified with unsupervised learning technique using principal components analysis.
+
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
+
+## Data Science Homework
+Completed a series of homework related to data science. Involved the full data science lifecycle, from data cleaning, making visualizations, evaluating models, and reasoning the data. Got hands dirty with a variety of machine learning/data science packages such as Pandas, Numpy, Matplotlib, scikit-learn, Seaborn, Scipy, and Plotly.
+
+<img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
