@@ -68,7 +68,10 @@ Made an Nbody simulator. Using physics equations to simulate bodies in space usi
 <div align="center">
     <a href="https://cs61bl.org/su20/projects/deques/">Spec</a>
 </div>
-Made an array deque data structure from scratch in Java. Also implemented unit tests with junit5.
+Made an array deque data structure from scratch in Java. Also implemented unit tests with junit5. It was the first time using a testing framework and an introduction to TDD.
+<div align="center">
+    <img src="https://cdn.programiz.com/sites/tutorial2program/files/java-arraydeque-class.png"/>
+</div>
 
 <h2 align="center">Gitlet</h2>
 <div align="center">
@@ -216,3 +219,21 @@ Made a self-driving car with circuits, op-amps, filters, and sensors with a TI M
 <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 Completed a series of homework related to data science. Involved the full data science lifecycle, from data cleaning, making visualizations, evaluating models, and reasoning the data. Got hands dirty with a variety of machine learning/data science packages such as Pandas, Numpy, Matplotlib, scikit-learn, Seaborn, Scipy, and Plotly.
+
+
+##
+<h2 align="center">Pintos</h2>
+<div align="center">
+<div align="center">
+    <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+</div>
+
+Improved upon the Pintos operating system written in C by implementing support for system calls, FPU, timers, schedulers, user threads, buffer cache, filesystem, and subdirectories.
+
+##
+<h2 align="center">Secure Filesystem</h2>
+<div align="center">
+<div align="center">
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+</div>
+Implemented a filesystem in Go with secure cryptographic encryption schemes that ensure confidentiality, authenticity, and integrity of data.
