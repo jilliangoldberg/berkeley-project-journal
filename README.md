@@ -227,8 +227,10 @@ Completed a series of homework related to data science. Involved the full data s
 <div align="center">
     <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 </div>
-
 Improved upon the Pintos operating system written in C by implementing support for system calls, FPU, timers, schedulers, user threads, buffer cache, filesystem, and subdirectories.
+<div align="center">
+    <img src="media/cs162bean.png">
+</div>
 
 ##
 <h2 align="center">Secure Filesystem</h2>
@@ -236,4 +238,36 @@ Improved upon the Pintos operating system written in C by implementing support f
 <div align="center">
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 </div>
-Implemented a filesystem in Go with secure cryptographic encryption schemes that ensure confidentiality, authenticity, and integrity of data.
+Implemented a filesystem in Go with secure cryptographic encryption schemes that ensure confidentiality, authenticity, and integrity of data. Wrote security attacks and tests with Ginkgo and Gomega testing frameworks. Used cryptographic functions such as public key encryption, digital signatures, hash-based message authentication code (HMAC), hash-based key derivation function (HashKDF), password-based key derivation function (PBKDF), and symmetric encryption.
+<div align="center">
+    <img src="media/golang.png">
+</div>
+
+##
+<h2 align="center">Parallel Computing Homework</h2>
+<div align="center">
+<div align="center">
+    <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img alt="X86" src="https://img.shields.io/badge/x86-0071C5?style=for-the-badge&logo=intel&logoColor=white"><img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</div>
+Series of parallel computing homeworks written in C/C++. Used SIMD instructions to achieve near theoretical peak performance of DGEMM on a single core on Intel KNL processors. Parallelized particle simulations using OpemMP, MPI, and CUDA. Finally, used UPC++ to do genomic simulation. Ran CPU simulations and benchmarks on Cori KNL nodes (Intel Xeon Phi 7250) on the NERSC supercomputer (<a href="https://www.top500.org/lists/top500/">Top 500</a>) and ran GPU simulations on Bridges-2 supercomputer in PSC (8 NVIDIA Tesla V100 32GB per node). 
+<div align="center">
+    <img src="media/particle.gif">
+</div>
+
+
+
+##
+<h2 align="center">Computer Architecture Labs</h2>
+<div align="center">
+<div align="center">
+    <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/RISC_V-2b336e?style=for-the-badge&"><img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white">
+</div>
+Series of computer achitecture labs written in C/C++/RISC-V assembly. Used Chisel to write hardware descriptive code and Chipyard framework to run variety of RISC-V simulators. 
+
+
+
+
+
+
+
+
