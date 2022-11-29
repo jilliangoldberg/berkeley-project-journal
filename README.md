@@ -1,7 +1,25 @@
 <h1 align="center">School Projects</h1>
-Here lies a journal of school coding projects and assignments I have completed at UC Berkeley. I cannot share the source code of the projects because of confidentiality and plagarism, so I will summarize my thoughts and findings here instead. If possible, I will also include a link to the project spec. Having a journal like this helps me keep track of the plethora of projects I've completed at Berkeley!
+Here lies a journal of school coding projects and assignments I have completed at UC Berkeley. Since I can't share the source code of the projects, I'll summarize the projects and what I learned from them instead. I'll also include a link to the project spec if possible. Having a journal like this helps me keep track of the most notable projects I've completed at Berkeley!
+<br><br>
+Here are all the CS courses I've completed so far, for reference:
+<blockquote>
+CS 61A: <a href="https://cs61a.org/">The Structure and Interpretation of Computer Programs</a> <br>
+CS 61B: <a href="https://sp21.datastructur.es/">Data Structures and Algorithms</a> <br>
+EECS 16A: <a href="https://eecs16a.org/">Designing Information Devices and Systems I</a> <br>
+CS 188: <a href="https://inst.eecs.berkeley.edu/~cs188/fa22/">Introduction to Artificial Intelligence</a> <br>
+CS 61C: <a href="https://inst.eecs.berkeley.edu/~cs61c/fa21/">Great Ideas in Computer Architecture (Machine Structures)</a> <br>
+CS 70: <a href="https://www.eecs70.org/">Discrete Mathematics and Probability Theory</a> <br>
+CS 198: <a href="https://mlberkeley.github.io/rec-sys-decal-website/#/syllabus">Recommendation Systems in Machine Learning</a> <br>
+EECS 16B: <a href="https://eecs16b.org/">Designing Information Devices and Systems II</a> <br>
+CS 189: <a href="https://www.compsci189.org/">Introduction to Machine Learning</a> <br>
+DATA 100: <a href="https://ds100.org/fa22/">Principles and Techniques of Data Science</a> <br>
+CS 162: <a href="https://cs162.org/">Operating Systems and Systems Programming</a> <br>
+</blockquote>
 
 <h2 align="center">Hog</h2>
+<div align="center">
+    <a href="https://cs61a.org/">CS 61A</a> - Fall 2020
+</div>
 <div align="center">
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </div>
