@@ -1,5 +1,5 @@
 <h1 align="center">School Projects</h1>
-Here lies a journal of school coding projects and assignments I have completed at UC Berkeley. Since I can't share the source code of the projects, I'll summarize the projects and what I learned from them instead. I'll also include a link to the project spec if possible. Having a journal like this helps me keep track of the most notable projects I've completed at Berkeley!
+Here's a journal of school coding projects and assignments I have completed at UC Berkeley. Since I can't share the source code of the projects, I'll summarize the projects and what I learned from them instead. I'll also include a link to the project spec if possible. Having a journal like this helps me keep track of the most notable projects I've completed at Berkeley!
 <br><br>
 Here are all the CS courses I've completed so far, for reference:
 <blockquote>
@@ -17,9 +17,6 @@ CS 162: <a href="https://cs162.org/">Operating Systems and Systems Programming</
 </blockquote>
 
 <h2 align="center">Hog</h2>
-<div align="center">
-    <a href="https://cs61a.org/">CS 61A</a> - Fall 2020
-</div>
 <div align="center">
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </div>
